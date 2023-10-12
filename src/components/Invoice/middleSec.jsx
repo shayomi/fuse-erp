@@ -157,8 +157,8 @@ const Middlesec = () => {
               </div>
             </div>
             <div className='mt-6 flex flex-col gap-y-2'>
-              <div className='border-b-[1px] border-[#2563eb]'>
-                <div className='flex flex-row gap-x-4 pb-8'>
+              <div className='border-b-[1px] border-[#2563eb] cursor-pointer '>
+                <div className='flex flex-row gap-x-4 pb-8 '>
                   <AiOutlinePlus size={20} className='fill-[#2563eb]' />
                   <p className='font-medium text-[14px] text-[#2563eb]'>
                     Add another line item
