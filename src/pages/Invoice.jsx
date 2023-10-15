@@ -6,7 +6,7 @@ import Rightbar from '../components/Rightbar';
 
 const Invoice = () => {
   return (
-    <div className='max-w-[1240px] w-full mx-auto justify-center'>
+    <div className='max-w-[1500px] w-full mx-auto justify-center'>
       <Sidebar />
       <Topbar />
       <Middlesec />

@@ -3,7 +3,7 @@ import { BsCheckCircle } from 'react-icons/bs';
 
 const Rightbar = () => {
   return (
-    <div className='top-0 right-0 fixed z-1 w-[250px] bg-white h-full'>
+    <div className='top-0 left-[1100px] fixed z-1 w-[250px] bg-white h-full'>
       <div className=' flex flex-col gap-[20rem] content-between  mt-[4rem]  '>
         <div className='px-5 pt-10 flex flex-col gap-y-4'>
           <div className='mb-4'>
